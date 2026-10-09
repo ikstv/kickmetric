@@ -1,0 +1,33 @@
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.*
+
+# Local caches, logs, and scratch files
+.cache/
+.tmp/
+tmp/
+*.log
+*.tmp
+*.bak
+
+# Editor and operating-system clutter
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local agent configuration and downloaded datasets
+.codex/
+.agents/
+data/
+datasets/

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">KickMetric — Football, quantified.</title><desc id="desc">Desktop-first football analytics. A geometric K and decorative pitch illustration in navy and mint. Planning stage.</desc>
+<rect width="1280" height="420" fill="#101e30"/>
+<path d="M0 414h1280" stroke="#61e6ba" stroke-width="12"/>
+<g transform="translate(860 55.0)" fill="none" stroke="#254256" stroke-width="2"><rect width="340" height="310" rx="3"/><path d="M170 0v310M0 75h60v160H0M340 75h-60v160h60"/><circle cx="170" cy="155" r="56"/><circle cx="170" cy="155" r="4" fill="#61e6ba" stroke="none"/><path d="M32 249l73-53 61 22 62-110 76-42" stroke="#61e6ba" stroke-width="4"/><g fill="#61e6ba" stroke="#101e30" stroke-width="5"><circle cx="32" cy="249" r="7"/><circle cx="105" cy="196" r="7"/><circle cx="166" cy="218" r="7"/><circle cx="228" cy="108" r="7"/><circle cx="304" cy="66" r="7"/></g></g>
+<g transform="translate(70 73.0) scale(.58)"><path d="M0 0v72M44 0L8 36l36 36" fill="none" stroke="#61e6ba" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter"/></g>
+<text x="117" y="107.0" fill="#acc0cf" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">FOOTBALL ANALYTICS</text>
+<text x="64" y="200.0" fill="#f1f6fa" font-family="Arial, sans-serif" font-weight="700" font-size="88" letter-spacing="-3">KickMetric</text>
+<text x="70" y="258.0" fill="#61e6ba" font-family="Arial, sans-serif" font-size="35">Football, quantified.</text>
+<text x="70" y="322.0" fill="#acc0cf" font-family="Arial, sans-serif" font-size="20">Planning  /  Desktop first  /  Android planned</text>
+</svg>
